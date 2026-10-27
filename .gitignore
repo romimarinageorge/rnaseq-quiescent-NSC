@@ -1,0 +1,6 @@
+data/
+ref/
+results/salmon/*/
+results/deseq2/*.rds
+*.fastq.gz
+*.sra

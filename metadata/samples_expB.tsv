@@ -1,0 +1,7 @@
+sample	run	condition	replicate
+FGF2_1	SRR7514764	proliferating	1
+FGF2_2	SRR7514765	proliferating	2
+FGF2_3	SRR7514766	proliferating	3
+BMP4_1	SRR7514767	quiescent	1
+BMP4_2	SRR7514768	quiescent	2
+BMP4_3	SRR7514769	quiescent	3
