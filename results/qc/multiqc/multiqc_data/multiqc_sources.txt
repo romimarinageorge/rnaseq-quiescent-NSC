@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR7514764_1	/home/romi/rnaseq_qNSC/results/qc/fastqc/SRR7514764_1_fastqc.zip
+FastQC	all_sections	SRR7514764_2	/home/romi/rnaseq_qNSC/results/qc/fastqc/SRR7514764_2_fastqc.zip
+FastQC	all_sections	SRR7514765_1	/home/romi/rnaseq_qNSC/results/qc/fastqc/SRR7514765_1_fastqc.zip
+FastQC	all_sections	SRR7514765_2	/home/romi/rnaseq_qNSC/results/qc/fastqc/SRR7514765_2_fastqc.zip
+FastQC	all_sections	SRR7514766_1	/home/romi/rnaseq_qNSC/results/qc/fastqc/SRR7514766_1_fastqc.zip
+FastQC	all_sections	SRR7514766_2	/home/romi/rnaseq_qNSC/results/qc/fastqc/SRR7514766_2_fastqc.zip
+FastQC	all_sections	SRR7514767_1	/home/romi/rnaseq_qNSC/results/qc/fastqc/SRR7514767_1_fastqc.zip
+FastQC	all_sections	SRR7514767_2	/home/romi/rnaseq_qNSC/results/qc/fastqc/SRR7514767_2_fastqc.zip
+FastQC	all_sections	SRR7514768_1	/home/romi/rnaseq_qNSC/results/qc/fastqc/SRR7514768_1_fastqc.zip
+FastQC	all_sections	SRR7514768_2	/home/romi/rnaseq_qNSC/results/qc/fastqc/SRR7514768_2_fastqc.zip
+FastQC	all_sections	SRR7514769_1	/home/romi/rnaseq_qNSC/results/qc/fastqc/SRR7514769_1_fastqc.zip
+FastQC	all_sections	SRR7514769_2	/home/romi/rnaseq_qNSC/results/qc/fastqc/SRR7514769_2_fastqc.zip
