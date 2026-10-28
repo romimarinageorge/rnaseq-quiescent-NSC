@@ -1,0 +1,2 @@
+# Tool-generated reports and outputs: exclude from GitHub's language statistics
+results/** linguist-generated
